@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect x="0" y="0" width="1200" height="620" fill="#FFFFFF"/>
+  <g font-family="Noto Sans SC, Arial Unicode MS, sans-serif" fill="#20252B">
+    <text x="40" y="52" font-size="28" font-weight="bold">研发阶段与决策关口｜虚构示例</text>
+    <text x="40" y="84" font-size="17" fill="#5E6570">版式起点：按实际证据与项目阶段改写，不预设统一关口数量或判断阈值。</text>
+    <rect x="40" y="128" width="275" height="56" rx="28" fill="#EAF3FC"/>
+    <rect x="455" y="128" width="275" height="56" rx="28" fill="#EAF3FC"/>
+    <rect x="870" y="128" width="290" height="56" rx="28" fill="#EAF3FC"/>
+    <g font-size="21" font-weight="bold" fill="#2465A8" text-anchor="middle">
+      <text x="177" y="164">阶段 A：获取证据</text>
+      <text x="592" y="164">阶段 B：验证假设</text>
+      <text x="1015" y="164">阶段 C：开展下一阶段</text>
+    </g>
+    <line x1="315" y1="156" x2="455" y2="156" stroke="#2878D8" stroke-width="3"/>
+    <line x1="730" y1="156" x2="870" y2="156" stroke="#2878D8" stroke-width="3"/>
+    <polygon points="450,150 460,156 450,162" fill="#2878D8"/>
+    <polygon points="865,150 875,156 865,162" fill="#2878D8"/>
+    <polygon points="385,121 420,156 385,191 350,156" fill="#EA6B36"/>
+    <polygon points="800,121 835,156 800,191 765,156" fill="#EA6B36"/>
+    <g font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+      <text x="385" y="165">1</text><text x="800" y="165">2</text>
+    </g>
+    <g font-size="15" fill="#5E6570" text-anchor="middle">
+      <text x="437" y="113">满足条件</text><text x="853" y="113">满足条件</text>
+    </g>
+    <line x1="385" y1="191" x2="385" y2="226" stroke="#EA6B36" stroke-width="2"/>
+    <line x1="800" y1="191" x2="800" y2="226" stroke="#EA6B36" stroke-width="2"/>
+    <polygon points="379,220 385,230 391,220" fill="#EA6B36"/>
+    <polygon points="794,220 800,230 806,220" fill="#EA6B36"/>
+    <rect x="190" y="232" width="390" height="202" rx="12" fill="#FFF0E6" stroke="#EA6B36" stroke-width="2"/>
+    <rect x="605" y="232" width="390" height="202" rx="12" fill="#FFF0E6" stroke="#EA6B36" stroke-width="2"/>
+    <g font-size="22" font-weight="bold">
+      <text x="212" y="269">关口 1：证据是否足够？</text>
+      <text x="627" y="269">关口 2：是否支持继续？</text>
+    </g>
+    <g font-size="18">
+      <text x="212" y="310">依据：已核实的研究结果</text>
+      <text x="212" y="347">条件：项目团队定义，尚待确认</text>
+      <text x="212" y="384">待补：影响当前决策的关键数据</text>
+      <text x="627" y="310">依据：预先定义的验证结果</text>
+      <text x="627" y="347">条件：获益、风险与可行性</text>
+      <text x="627" y="384">待定：阈值、责任人与锁定时间</text>
+    </g>
+    <line x1="385" y1="434" x2="385" y2="480" stroke="#8B929B" stroke-width="2"/>
+    <line x1="800" y1="434" x2="800" y2="480" stroke="#8B929B" stroke-width="2"/>
+    <rect x="190" y="480" width="805" height="60" rx="10" fill="#F1F2F3"/>
+    <text x="212" y="518" font-size="20">不满足条件 → 暂停或调整；数据不足 → 补充证据后重新评估</text>
+    <text x="40" y="587" font-size="17" fill="#5E6570">图注：虚构流程，仅展示视觉结构；正式使用时填入来源、判断口径与未解决事项。</text>
+  </g>
+</svg>

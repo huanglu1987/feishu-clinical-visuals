@@ -1,0 +1,6 @@
+interface:
+  display_name: "飞书临床研发文档可视化"
+  short_description: "按内容选用临床研发图表与飞书画板，保留证据口径并核查实际显示效果"
+  default_prompt: "使用 $feishu-clinical-visuals 撰写或优化这份飞书临床研发文档，合理使用图表和画板，并保留来源与不确定性。"
+policy:
+  allow_implicit_invocation: true
